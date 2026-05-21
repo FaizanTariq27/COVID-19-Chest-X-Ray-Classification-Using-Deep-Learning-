@@ -1,0 +1,9 @@
+# Ignore everything first
+*
+
+# But allow these folders
+!Dataset/
+!Model Weights/
+
+# Also allow gitignore itself
+!.gitignore
